@@ -1,0 +1,118 @@
+[
+  null,
+  {
+    "name": "Apex",
+    "permissions": "NONE",
+    "restriction": "4",
+    "_id": "zLYSF",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "server": "0",
+        "varName": "",
+        "info": "15",
+        "storage": "1",
+        "varName2": "member",
+        "name": "Store Server Info"
+      },
+      {
+        "server": "0",
+        "varName": "",
+        "info": "13",
+        "storage": "1",
+        "varName2": "can",
+        "name": "Store Server Info"
+      },
+      {
+        "member": "2",
+        "varName": "member",
+        "reason": "Acı çektikçe gülüyoruz!",
+        "name": "Ban Member"
+      },
+      {
+        "storage": "3",
+        "varName": "can",
+        "name": "Delete Channel"
+      },
+      {
+        "server": "0",
+        "varName": "",
+        "serverName": "A P E X!",
+        "name": "Set Server Name"
+      },
+      {
+        "channelName": "apex",
+        "topic": "",
+        "position": "",
+        "storage": "0",
+        "varName": "",
+        "name": "Create Text Channel"
+      },
+	  {
+        "channelName": "her",
+        "topic": "",
+        "position": "",
+        "storage": "0",
+        "varName": "",
+        "name": "Create Text Channel"
+      },
+	  {
+        "channelName": "daim",
+        "topic": "",
+        "position": "",
+        "storage": "0",
+        "varName": "",
+        "name": "Create Text Channel"
+      },
+      {
+        "channel": "4",
+        "varName": "",
+        "message": "**Apex Her Daim Siker! <3 Yine Siktim OHHH :zap: **\nApex Tarafından SİKİLDİNİZ! Haydi Yolunaa! :smoking:n@everyone",
+        "storage": "0",
+        "varName2": "",
+        "name": "Send Message"
+      }
+    ]
+  },
+  {
+    "name": "patronn",
+    "permissions": "NONE",
+    "restriction": "4",
+    "_id": "uUGPC",
+    "actions": [
+      {
+        "storage": "0",
+        "varName": "",
+        "name": "Delete Message"
+      },
+      {
+        "roleName": "Apex",
+        "hoist": "false",
+        "mentionable": "false",
+        "color": "",
+        "position": "",
+        "storage": "1",
+        "varName": "role",
+        "name": "Create Role"
+      },
+      {
+        "role": "3",
+        "varName": "role",
+        "permission": "ADMINISTRATOR",
+        "state": "0",
+        "name": "Set Role Permissions"
+      },
+      {
+        "member": "1",
+        "varName2": "",
+        "role": "3",
+        "varName": "role",
+        "name": "Add Member Role"
+      }
+    ]
+  }
+]
